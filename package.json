@@ -1,0 +1,18 @@
+{
+  "name": "neon-hello",
+  "version": "0.1.0",
+  "description": "a 'hello world' demo of Neon",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dherman/neon-hello"
+  },
+  "author": "Dave Herman <dherman@mozilla.com>",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.1.13"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
