@@ -10,7 +10,7 @@
   "author": "Dave Herman <dherman@mozilla.com>",
   "license": "MIT",
   "dependencies": {
-    "neon-cli": "^0.1.13"
+    "neon-cli": "^0.1.15"
   },
   "scripts": {
     "install": "neon build"
